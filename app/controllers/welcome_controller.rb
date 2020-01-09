@@ -1,5 +1,6 @@
 class WelcomeController < ApplicationController
   def index
-    A::B
+    byebug
+    # A::B
   end
 end
