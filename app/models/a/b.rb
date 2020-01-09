@@ -1,3 +1,3 @@
-class B
+class A::B
 
 end
